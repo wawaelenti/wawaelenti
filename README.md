@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=wawaelenti&abbreviated=true&color=brightgreen" /></p>
  
-<p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=wawaelenti&theme=tokyonight&hide_border=false" alt="wawaelenti"  /></p>
+<p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=wawaelenti&theme=rose_pine&hide_border=false" alt="wawaelenti"  /></p>
 
 <hr>
 <p align="center">
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wawaelenti" alt="wawaelenti" /></a> </p>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wawaelenti&theme=rosepine" height="300" alt="activity-graph graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wawaelenti&theme=rose_pine" height="300" alt="activity-graph graph"  />
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; justify-content: center; align-items: center;">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmuh&theme=rosepine" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmuh&theme=rosepine" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmuh&theme=rose_pine" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmuh&theme=rose_pine" />
 </div>
 </div>
 
