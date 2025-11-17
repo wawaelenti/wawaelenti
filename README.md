@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### ⛈️ &nbsp;Databases Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 ### 💻 &nbsp;IDEs/Editors
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
