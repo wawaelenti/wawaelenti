@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wawaelenti&theme=rose_pine" height="300" alt="activity-graph graph"  />
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; justify-content: center; align-items: center;">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmuh&theme=rose_pine" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmuh&theme=rose_pine" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wawaelenti&theme=rose_pine" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wawaelenti&theme=rose_pine" />
 </div>
 </div>
 
